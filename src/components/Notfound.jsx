@@ -1,12 +1,9 @@
 import React from "react";
+import './notfound.css';
 
-import './Notfound.css';
-
-function Notfound(){
+const Notfound = () => {
 return(
-        <div>
-            <span>No hemos encontrado la página que buscas</span>
-        </div>
+        <div>No hemos encontrado la página que buscas</div>
     )
 }
 
