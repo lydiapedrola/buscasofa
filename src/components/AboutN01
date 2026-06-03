@@ -1,0 +1,37 @@
+return (
+  <div className="about-container">
+    <h1>Acerca de nosotros</h1>
+
+    <div id="info">
+      <h2>Equipo nº 23</h2>
+      <h3>Grupo N01</h3>
+
+      <ul>
+        <li>
+          <strong>Lidia Logroño Ramas</strong>
+          <p>Diseño de la interfaz y documentación.</p>
+        </li>
+
+        <li>
+          <strong>Alba Duro Cabrera</strong>
+          <p>Desarrollo de componentes React.</p>
+        </li>
+
+        <li>
+          <strong>Marco Antonio Fernández Heras</strong>
+          <p>Implementación de pruebas con Cypress.</p>
+        </li>
+
+        <li>
+          <strong>Pablo Pérez-Aradros Calvo</strong>
+          <p>Integración de funcionalidades y validación.</p>
+        </li>
+
+        <li>
+          <strong>Francisco José Saiz Ezquerra de Paz</strong>
+          <p>Control de versiones y soporte en pruebas.</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+);
