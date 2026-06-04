@@ -20,7 +20,6 @@ const AboutN01 = () => {
                         <p>Implementación de funcionalidades y documentación del proyecto.</p>
                     </li>
 
-
                     <li>
                         <strong>Marco Antonio Fernández Heras</strong>
                         <p>Desarrollo y validación de pruebas.</p>
